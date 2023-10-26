@@ -1,0 +1,1 @@
+alert("ninguém precisa de padrão cada um com a sua beleza natural");
